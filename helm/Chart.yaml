@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-sales-product-agreement
+description: "BIAN Service Domain: Sales Product Agreement (Manage pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - manage
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Sales"
+  bian/asset-type: "Sales Product Agreement"
+  bian/control-record: "Sales Product Agreement Management Plan"
